@@ -14,6 +14,7 @@ M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,SOMA cho
 M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,Rooster Coffee,43.65189965670432,-79.36560912104514,Coffee Shop
 M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,Cacao 70,43.650066694561666,-79.36072263183006,Dessert Shop
 M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,Arvo,43.64996280366945,-79.36144178325522,Coffee Shop
+M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,Alumnae Theatre,43.65275554626444,-79.36475283805089,Theater
 M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,Sumach Espresso,43.65813540553308,-79.35951549011845,Coffee Shop
 M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,Young Centre for the Performing Arts,43.65082466432163,-79.35759324240415,Performing Arts Venue
 M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,Starbucks,43.651613,-79.364917,Coffee Shop
@@ -31,9 +32,9 @@ M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,Dark Hor
 M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,The Yoga Lounge,43.65551522261721,-79.36495542526245,Yoga Studio
 M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,Mill St. Brew Pub,43.65035331843578,-79.35848936650571,Pub
 M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,Greg's Ice Cream,43.65010164153305,-79.3604404498866,Ice Cream Shop
-M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,Izumi,43.6499697935016,-79.36015326451906,Asian Restaurant
 M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,John Fluevog Shoes,43.64989585773889,-79.3594359503061,Shoe Store
 M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,Soulpepper Theatre,43.65078003430492,-79.35761534068922,Theater
+M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,Arta Gallery,43.650022181882065,-79.36122168476822,Art Gallery
 M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,The Abnormal Beauty Company,43.649892147380996,-79.3610051085219,Cosmetics Shop
 M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,The Aviary,43.65363394725125,-79.35466212072043,Pub
 M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,Vistek,43.65704640025721,-79.35966695607046,Electronics Store
@@ -42,7 +43,6 @@ M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,The Beer
 M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,Savoury Grounds,43.656820970004496,-79.3589698353747,Coffee Shop
 M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,Residence & Conference Centre,43.65304,-79.35704,Hotel
 M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,The Healthy Road,43.656264585886454,-79.35711882680904,Health Food Store
-M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,Wine Rack,43.656573,-79.356928,Wine Shop
 M5A,Downtown Toronto,"Regent Park, Harbourfront",43.6542599,-79.3606359,GW General,43.650495,-79.357538,Antique Shop
 M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.6623015,-79.3894938,Queen's Park,43.66394609897775,-79.39217952520835,Park
 M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.6623015,-79.3894938,Neo Coffee Bar,43.66014,-79.38587,Coffee Shop
@@ -58,7 +58,6 @@ M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.6623015,-7
 M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.6623015,-79.3894938,401 Games,43.663623277853254,-79.3840374323983,Hobby Shop
 M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.6623015,-79.3894938,Hart House Theatre,43.66357134217992,-79.3946163990837,Theater
 M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.6623015,-79.3894938,Dollarama,43.66068,-79.38468,Discount Store
-M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.6623015,-79.3894938,St. Louis Bar and Grill,43.66385323730235,-79.38418742909323,Wings Joint
 M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.6623015,-79.3894938,Flock Rotisserie + Greens,43.659167,-79.389475,Fried Chicken Joint
 M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.6623015,-79.3894938,W Burger Bar,43.66133100835633,-79.3835570768382,Burger Joint
 M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.6623015,-79.3894938,Northbound Leather,43.66525192363289,-79.38487411233972,Boutique
@@ -76,8 +75,7 @@ M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.6623015,-7
 M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.6623015,-79.3894938,SUDS,43.65988035580764,-79.39471219966201,Bar
 M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.6623015,-79.3894938,Tim Hortons,43.6594149,-79.3912214,Coffee Shop
 M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.6623015,-79.3894938,RBC Royal Bank,43.65933603842843,-79.38977326176165,Bank
-M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.6623015,-79.3894938,The Green Beet Cafe,43.66209577172247,-79.39415302454405,Vegetarian / Vegan Restaurant
-M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.6623015,-79.3894938,University of Toronto Arts Centre,43.663605383400764,-79.39515929235343,Art Gallery
+M7A,Downtown Toronto,"Queen's Park, Ontario Provincial Government",43.6623015,-79.3894938,Understudy Café at Gerstein,43.662308053867875,-79.39409796741381,College Cafeteria
 M5B,Downtown Toronto,"Garden District, Ryerson",43.6571618,-79.37893709999999,UNIQLO ユニクロ,43.65591027779457,-79.38064099181345,Clothing Store
 M5B,Downtown Toronto,"Garden District, Ryerson",43.6571618,-79.37893709999999,Silver Snail Comics,43.65703137958407,-79.38140310220501,Comic Shop
 M5B,Downtown Toronto,"Garden District, Ryerson",43.6571618,-79.37893709999999,Yonge-Dundas Square,43.65605389742188,-79.38049504264389,Plaza
@@ -203,9 +201,7 @@ M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,HI-Toronto Hostel,43.
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Craft Beer Market,43.6498722789121,-79.37839828995996,Beer Bar
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,The George Street Diner,43.65297,-79.371467,Diner
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,The Poet Cafe,43.65063683072023,-79.37127573699792,Café
-M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,The Chase,43.650951982093595,-79.37942201983014,New American Restaurant
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,St. Lawrence Market Plaza,43.64916860422451,-79.37232987433548,Art Gallery
-M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Sud Forno,43.65093965733832,-79.37904545824371,Bakery
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,deKEFIR,43.65043319523819,-79.37939324949957,Ice Cream Shop
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Pravda Vodka Bar,43.64851553067474,-79.37473231149953,Cocktail Bar
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,St. Lawrence Market (North Building),43.64879290161719,-79.37194535820687,Farmers Market
@@ -215,16 +211,15 @@ M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,St. James Park,43.650
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,St. Lawrence Market (South Building),43.64874320223593,-79.37159697627527,Farmers Market
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,D.W. Alexander,43.64833304339161,-79.3738261420116,Cocktail Bar
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Fresh On Front,43.64781466405137,-79.3744527618627,Vegetarian / Vegan Restaurant
-M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Downtown Camera,43.653107,-79.37512,Camera Store
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,HomeSense,43.6530533,-79.3794496,Furniture / Home Store
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,C'est What,43.64842583928427,-79.37343925237656,Beer Bar
-M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Imagine Cinemas Market Square,43.64964574271603,-79.37244562498488,Movie Theater
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Stonemill Bread,43.648668221542096,-79.37160962302049,Bakery
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Dog Fountain,43.64799795147863,-79.37536096948996,Fountain
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,The Reservoir Lounge,43.64851659851552,-79.37455623391588,Jazz Club
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Mos Mos Coffee,43.64815919753501,-79.37874450467258,Café
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,LUSH,43.653557,-79.3804,Cosmetics Shop
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Hudson's Bay,43.652039815876805,-79.38039146122816,Department Store
+M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Le Petit Déjeuner,43.650822486200305,-79.37043860004992,Breakfast Spot
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Starbucks,43.649328,-79.378339,Coffee Shop
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Market Street Catch,43.64850142396483,-79.3718080237409,Seafood Restaurant
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Bulk Barn,43.64999368528393,-79.37009943145777,Grocery Store
@@ -241,7 +236,6 @@ M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Biff's Bistro,43.6470
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Victoria's Secret,43.65320588119187,-79.38052200729167,Lingerie Store
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Abercrombie & Fitch,43.65291548392747,-79.38049525090148,Clothing Store
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Bannock,43.652101173138405,-79.38117828399939,Restaurant
-M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Bay Adelaide Centre,43.650878539102386,-79.38000310739676,Office
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,The Gabardine,43.65098801064232,-79.38122513218154,American Restaurant
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Over Easy,43.64807704204346,-79.37759871575396,Breakfast Spot
 M5C,Downtown Toronto,St. James Town,43.6514939,-79.3754179,Victoria's Secret PINK,43.65335746417248,-79.3806734813237,Lingerie Store
@@ -328,7 +322,7 @@ M5E,Downtown Toronto,Berczy Park,43.644770799999996,-79.3733064,Irish Embassy,43
 M5E,Downtown Toronto,Berczy Park,43.644770799999996,-79.3733064,Vagabondo Ristorante & Lounge,43.64822172333574,-79.37529997897587,Italian Restaurant
 M5E,Downtown Toronto,Berczy Park,43.644770799999996,-79.3733064,Bindia Indian Bistro,43.64855916613238,-79.37181600953608,Indian Restaurant
 M5E,Downtown Toronto,Berczy Park,43.644770799999996,-79.3733064,Evolution Food Co,43.64846817292615,-79.37171498148525,Juice Bar
-M5E,Downtown Toronto,Berczy Park,43.644770799999996,-79.3733064,The Gallery,43.64462260922038,-79.36871188062028,Lounge
+M5E,Downtown Toronto,Berczy Park,43.644770799999996,-79.3733064,Chroma,43.64458944049826,-79.36887764222928,Nightclub
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Jimmy's Coffee,43.65842123574496,-79.38561319551111,Coffee Shop
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Neo Coffee Bar,43.66014,-79.38587,Coffee Shop
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Hailed Coffee,43.65883296982352,-79.38368351986598,Coffee Shop
@@ -337,10 +331,8 @@ M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,The Queen and Bea
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,The Elm Tree Restaurant,43.65739749535259,-79.38376054171513,Modern European Restaurant
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Mercatto,43.660390911898546,-79.38766421192705,Italian Restaurant
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,College Park Area,43.659453,-79.383785,Park
-M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,KAKA,43.65745745164475,-79.38419169987876,Japanese Restaurant
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Chatime 日出茶太,43.65554164147378,-79.38468427043244,Bubble Tea Shop
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Starbucks,43.65945605353152,-79.39041123272168,Coffee Shop
-M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Red Lobster,43.656328,-79.383621,Seafood Restaurant
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Rolltation,43.65491791857301,-79.3874242454196,Japanese Restaurant
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Bubble Bath & Spa,43.65904951746615,-79.38534357912432,Spa
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Starbucks,43.6595874273128,-79.3852515870617,Coffee Shop
@@ -349,7 +341,6 @@ M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Duke's Refresher 
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,MUJI,43.656024,-79.383284,Miscellaneous Shop
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Scaddabush Italian Kitchen & Bar,43.658920292028725,-79.38289105381784,Italian Restaurant
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,GB Hand-Pulled Noodles,43.65643422548463,-79.3837827356398,Chinese Restaurant
-M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Poke Guys,43.65489527525682,-79.38505238381624,Poke Place
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Tsujiri,43.65537430780922,-79.38535434742991,Tea Room
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Barberian's Steak House,43.65775512925926,-79.38217741375935,Steakhouse
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Jimmy's Coffee,43.65582710322224,-79.39204216888555,Café
@@ -363,12 +354,10 @@ M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Cafe Plenty,43.65
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,The Yoga Sanctuary,43.661499497597596,-79.38363613350754,Yoga Studio
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Uncle Tetsu's Cheesecake (Uncle Tetsu's Japanese Cheesecake),43.65606287245643,-79.38369472446465,Dessert Shop
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Infuse Cafe,43.658068043552504,-79.38172645275614,Coffee Shop
-M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Salad King,43.65760101432665,-79.38161963017174,Thai Restaurant
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Marshalls,43.659308,-79.3824621,Department Store
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Dollarama,43.66068,-79.38468,Discount Store
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,DoubleTree by Hilton,43.6546083,-79.3859415,Hotel
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,JOEY,43.6560936540828,-79.38187792357716,American Restaurant
-M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Ali Baba's,43.65491647880546,-79.38717216891472,Middle Eastern Restaurant
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,doubletree fitness center (Doubletree Fitness Centre),43.65460313972433,-79.38620388507843,Gym / Fitness Center
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Toronto Vegetarian Association,43.655953,-79.392854,Office
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Sambuca Grill,43.656109861046346,-79.39294644724129,Italian Restaurant
@@ -395,12 +384,8 @@ M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Tosto,43.661198,-
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Thai Express,43.66163,-79.38734,Thai Restaurant
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Omai,43.656006,-79.392494,Japanese Restaurant
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Tim Hortons,43.659695,-79.388706,Coffee Shop
-M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Hot Star Large Fried Chicken,43.65880844786959,-79.3820352603718,Fried Chicken Joint
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Second Cup,43.660721671691235,-79.38630837243234,Coffee Shop
-M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Anoush,43.66003388545557,-79.38830898321906,Middle Eastern Restaurant
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Mo'Ramyun,43.65614757920083,-79.39228230349781,Korean Restaurant
-M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Sage Cafe & Catering,43.655838552521466,-79.39206594138834,Café
-M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Burano Gym,43.66205254210298,-79.38603826319451,Gym
 M5G,Downtown Toronto,Central Bay Street,43.6579524,-79.3873826,Kuni Sushi Ya,43.656129105594225,-79.39298605307937,Sushi Restaurant
 M6G,Downtown Toronto,Christie,43.669542,-79.4225637,Fiesta Farms,43.66847077052224,-79.42048512748114,Grocery Store
 M6G,Downtown Toronto,Christie,43.669542,-79.4225637,Contra Cafe,43.669107144072974,-79.42610471852032,Café
@@ -442,7 +427,6 @@ M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Ja
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Boxcar Social Temperance,43.65055725249405,-79.38195634640063,Bar
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Friendly Stranger - Cannabis Culture Shop,43.650386666114635,-79.38852348995324,Smoke Shop
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Toronto PATH System,43.64990340698978,-79.3830527039004,General Travel
-M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Momofuku Noodle Bar,43.6493658716176,-79.38621652451032,Noodle House
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Sam James Coffee Bar (SJCB),43.64788137014028,-79.38433152836829,Café
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Kojin,43.64939770725357,-79.38609106624851,Colombian Restaurant
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Pi Co.,43.648651,-79.385874,Pizza Place
@@ -455,6 +439,7 @@ M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Pu
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Burrito Boyz,43.6484455955513,-79.3879951787513,Burrito Place
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Eggspectation Bell Trinity Square,43.65314383888587,-79.38198016678167,Breakfast Spot
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Copacabana Grilled Brazilian,43.64833259480477,-79.3881514766071,Brazilian Restaurant
+M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Daily Press Juicery,43.65038785952372,-79.38879174332155,Juice Bar
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Pai,43.64792310735613,-79.38857932631602,Thai Restaurant
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Michael's on Simcoe,43.64826881661747,-79.38632821234134,Steakhouse
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Richmond Station,43.65156872562108,-79.37926594000328,American Restaurant
@@ -491,7 +476,6 @@ M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Fi
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,SEPHORA,43.653688,-79.38012,Cosmetics Shop
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,HomeSense,43.6530533,-79.3794496,Furniture / Home Store
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Topshop,43.65225092432807,-79.3802210071282,Women's Store
-M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Poke Guys,43.65489527525682,-79.38505238381624,Poke Place
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,First Canadian Place,43.64848212292913,-79.38244342803955,Building
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,The Fifth & Terrace,43.649249809335,-79.38931975675418,Modern European Restaurant
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,"Coffee, Oysters, Champagne",43.647309,-79.38673,Lounge
@@ -503,10 +487,8 @@ M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Ap
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Sunset Grill,43.65166162378037,-79.3790751303271,Breakfast Spot
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Astarté Fresh Yogurt Bar,43.647595917807365,-79.38641938975012,Café
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Freshii,43.649273084327184,-79.38374831204301,Salad Place
-M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Bay Adelaide Centre,43.650878539102386,-79.38000310739676,Office
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Momentos,43.64754799198248,-79.38891405541862,Nightclub
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Bardi's Steak House,43.64622,-79.383074,Restaurant
-M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Forno Cultura,43.648532894220665,-79.38253494049307,Bakery
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Saks Food Hall by Pusateri's,43.6522693929052,-79.37979282493797,Food & Drink Shop
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,The Adelaide Hotel Toronto,43.6498312,-79.3801639,Hotel
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Cardio-Go,43.64701650155176,-79.38814275495332,Gym
@@ -516,9 +498,12 @@ M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Pr
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,doubletree fitness center (Doubletree Fitness Centre),43.65460313972433,-79.38620388507843,Gym / Fitness Center
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Toronto Athletic Club,43.647359553534905,-79.3811766566002,Gym
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Tim Hortons,43.6468622,-79.3825442,Coffee Shop
+M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,TD Canada Trust,43.6482334,-79.3809483,Bank
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Starbucks,43.647192603955325,-79.38095685671752,Coffee Shop
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Starbucks,43.646890531355616,-79.38187054975934,Coffee Shop
+M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Soup Nutsy,43.647857591711336,-79.38053285911379,Soup Place
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,McEwan Foods,43.64716011126396,-79.38104402548048,Deli / Bodega
+M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,David Pecaut Square,43.646743128025875,-79.38770055770874,Park
 M5H,Downtown Toronto,"Richmond, Adelaide, King",43.65057120000001,-79.3845675,Druxy's,43.648015481211395,-79.37990651776452,Deli / Bodega
 M6H,West Toronto,"Dufferin, Dovercourt Village",43.66900510000001,-79.4422593,The Greater Good Bar,43.669409,-79.439267,Bar
 M6H,West Toronto,"Dufferin, Dovercourt Village",43.66900510000001,-79.4422593,Parallel,43.66951635632503,-79.43872770646192,Middle Eastern Restaurant
@@ -534,9 +519,7 @@ M6H,West Toronto,"Dufferin, Dovercourt Village",43.66900510000001,-79.4422593,Fo
 M6H,West Toronto,"Dufferin, Dovercourt Village",43.66900510000001,-79.4422593,Rexall,43.667504,-79.442086,Pharmacy
 M6H,West Toronto,"Dufferin, Dovercourt Village",43.66900510000001,-79.4422593,Shoppers Drug Mart,43.666745,-79.447446,Pharmacy
 M6H,West Toronto,"Dufferin, Dovercourt Village",43.66900510000001,-79.4422593,Wallace Emerson Park,43.66693250395496,-79.4394486237563,Park
-M6H,West Toronto,"Dufferin, Dovercourt Village",43.66900510000001,-79.4422593,Modern Furniture Knockoffs,43.66879344781887,-79.43891560741953,Furniture / Home Store
-M6H,West Toronto,"Dufferin, Dovercourt Village",43.66900510000001,-79.4422593,Lynx Music,43.667425,-79.444994,Recording Studio
-M6H,West Toronto,"Dufferin, Dovercourt Village",43.66900510000001,-79.4422593,Stop BBQ Chicken,43.665923081653766,-79.43804189355156,Brazilian Restaurant
+M6H,West Toronto,"Dufferin, Dovercourt Village",43.66900510000001,-79.4422593,Pet Valu,43.667096215743925,-79.44175682188086,Pet Store
 M5J,Downtown Toronto,"Harbourfront East, Union Station, Toronto Islands",43.6408157,-79.38175229999999,Harbourfront,43.639525632239106,-79.38068838052389,Neighborhood
 M5J,Downtown Toronto,"Harbourfront East, Union Station, Toronto Islands",43.6408157,-79.38175229999999,Roundhouse Park,43.64174513889102,-79.38427882922346,Park
 M5J,Downtown Toronto,"Harbourfront East, Union Station, Toronto Islands",43.6408157,-79.38175229999999,iQ Food Co,43.642851,-79.382081,Salad Place
@@ -662,6 +645,7 @@ M6J,West Toronto,"Little Portugal, Trinity",43.647926700000006,-79.4197497,Hanmo
 M6J,West Toronto,"Little Portugal, Trinity",43.647926700000006,-79.4197497,Pho Tien Thanh,43.6454840897343,-79.41927617283633,Vietnamese Restaurant
 M6J,West Toronto,"Little Portugal, Trinity",43.647926700000006,-79.4197497,Bazara,43.64853491212856,-79.4205209529485,Japanese Restaurant
 M6J,West Toronto,"Little Portugal, Trinity",43.647926700000006,-79.4197497,Ufficio,43.649439390888254,-79.42301401069709,Italian Restaurant
+M6J,West Toronto,"Little Portugal, Trinity",43.647926700000006,-79.4197497,Té,43.6457982128694,-79.41950829388077,Bistro
 M6J,West Toronto,"Little Portugal, Trinity",43.647926700000006,-79.4197497,Tiger of Sweden Toronto,43.64547447021368,-79.41939519348614,Men's Store
 M6J,West Toronto,"Little Portugal, Trinity",43.647926700000006,-79.4197497,Veghed,43.649224,-79.422326,Vegetarian / Vegan Restaurant
 M6J,West Toronto,"Little Portugal, Trinity",43.647926700000006,-79.4197497,Jimmy's Coffee,43.64452074032671,-79.4189080566799,Coffee Shop
@@ -741,8 +725,6 @@ M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.3
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Dineen @CommerceCourt,43.648250543365556,-79.38012728220869,Coffee Shop
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Ki Modern Japanese + Bar,43.647167,-79.379608,Japanese Restaurant
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Cactus Club Cafe,43.6495520142626,-79.38167072512041,American Restaurant
-M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Pumpernickel's Deli,43.64883150054619,-79.38197006345457,Deli / Bodega
-M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Earls Kitchen & Bar,43.647945662980305,-79.3837058277153,Bar
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Design Exchange,43.64797219581623,-79.38010382588462,Art Gallery
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Hy's Steakhouse,43.649504756476944,-79.38291850488223,Steakhouse
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Pizzeria Libretto,43.64833354686235,-79.38511050184168,Pizza Place
@@ -760,7 +742,6 @@ M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.3
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Café Plenty,43.6491179354577,-79.37831288380438,Café
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Movenpick Cafe,43.647686808930885,-79.3772953884033,Café
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Reds Wine Tavern,43.64957038171473,-79.38212873483711,Gastropub
-M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Loose Moose,43.64528061938072,-79.38396600831251,Bar
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,The National Club,43.64934259283233,-79.3805735731846,Wine Bar
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Kellys Landing,43.645081624120245,-79.38304962483915,Restaurant
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Dineen Coffee,43.650497,-79.378765,Café
@@ -776,7 +757,6 @@ M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.3
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Toronto PATH System,43.64990340698978,-79.3830527039004,General Travel
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Rosalinda,43.650252483069295,-79.38515575620075,Vegetarian / Vegan Restaurant
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Scotiabank Arena,43.64344617535107,-79.37903988889991,Basketball Stadium
-M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Bosk at Shangri-La,43.649022736761516,-79.38582635521233,Asian Restaurant
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Estiatorio Volos,43.65032912559998,-79.38453301297716,Greek Restaurant
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Boxcar Social Temperance,43.65055725249405,-79.38195634640063,Bar
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,iQ Food Co,43.642851,-79.382081,Salad Place
@@ -797,7 +777,6 @@ M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.3
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Cosmopolitan Toronto Centre Hotel & Spa,43.64906432957466,-79.37759759701125,Hotel
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Scaddabush Italian Kitchen & Bar,43.6447367776608,-79.38535477982775,Italian Restaurant
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Spa My Blend by Clarins,43.645359,-79.387128,Spa
-M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Lobby Lounge at the Shangri-La Toronto,43.64915499986854,-79.38654574367817,Lounge
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Tim Hortons,43.646255967524645,-79.37957346439356,Coffee Shop
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Garrison Bespoke,43.648102,-79.376334,Tailor Shop
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Szechuan Express,43.6469728132212,-79.37954884053248,Chinese Restaurant
@@ -815,7 +794,6 @@ M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.3
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Spirit of Hockey,43.64704692224217,-79.37753727586353,Sporting Goods Shop
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,The Gabardine,43.65098801064232,-79.38122513218154,American Restaurant
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Meridian Hall,43.646292124205594,-79.37602179505662,Concert Hall
-M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Momofuku Noodle Bar,43.6493658716176,-79.38621652451032,Noodle House
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,The Adelaide Hotel Toronto,43.6498312,-79.3801639,Hotel
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Sweet Lulu,43.65055650489936,-79.38117543224395,Asian Restaurant
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,One King West Hotel & Residence,43.6491395,-79.3778763,Hotel
@@ -823,6 +801,12 @@ M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.3
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Ruth's Chris Steak House,43.6499174,-79.3857238,Steakhouse
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Starbucks,43.650159,-79.377793,Coffee Shop
 M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Fast Fresh Foods,43.647707960663595,-79.3795487376397,Salad Place
+M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Irish Embassy,43.647918499361516,-79.37727345157903,Irish Pub
+M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Victoria's Restaurant,43.64929834396347,-79.37643067251867,Restaurant
+M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Starbucks,43.64621307149554,-79.37908847368506,Coffee Shop
+M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,Ninki Izakaya,43.65022782352305,-79.38486260004564,Japanese Restaurant
+M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,John Allans,43.651446635211904,-79.38135389611388,Salon / Barbershop
+M5K,Downtown Toronto,"Toronto Dominion Centre, Design Exchange",43.6471768,-79.38157640000001,FLOCK Rotisserie + Greens,43.65098849486318,-79.38191708712704,Salad Place
 M6K,West Toronto,"Brockton, Parkdale Village, Exhibition Place",43.6368472,-79.42819140000002,Reebok Crossfit Liberty Village,43.637035591932005,-79.42480199455974,Gym
 M6K,West Toronto,"Brockton, Parkdale Village, Exhibition Place",43.6368472,-79.42819140000002,Starbucks,43.63909,-79.427622,Coffee Shop
 M6K,West Toronto,"Brockton, Parkdale Village, Exhibition Place",43.6368472,-79.42819140000002,Pharmacy,43.638089904034146,-79.43180974511733,Bar
@@ -841,6 +825,7 @@ M6K,West Toronto,"Brockton, Parkdale Village, Exhibition Place",43.6368472,-79.4
 M6K,West Toronto,"Brockton, Parkdale Village, Exhibition Place",43.6368472,-79.42819140000002,The Remix Project,43.63649113953229,-79.42251282693181,Performing Arts Venue
 M6K,West Toronto,"Brockton, Parkdale Village, Exhibition Place",43.6368472,-79.42819140000002,Loco Burrito,43.63751255946425,-79.4228975016341,Burrito Place
 M6K,West Toronto,"Brockton, Parkdale Village, Exhibition Place",43.6368472,-79.42819140000002,Uma Cafe,43.63701567204681,-79.42404784920467,Café
+M6K,West Toronto,"Brockton, Parkdale Village, Exhibition Place",43.6368472,-79.42819140000002,LiV Yoga Studio,43.63756459440972,-79.42474833111085,Yoga Studio
 M6K,West Toronto,"Brockton, Parkdale Village, Exhibition Place",43.6368472,-79.42819140000002,Queen Supermarket,43.634264921487066,-79.42911195252461,Grocery Store
 M6K,West Toronto,"Brockton, Parkdale Village, Exhibition Place",43.6368472,-79.42819140000002,Cinema Nightclub,43.63761384433725,-79.42388994008574,Nightclub
 M6K,West Toronto,"Brockton, Parkdale Village, Exhibition Place",43.6368472,-79.42819140000002,Gardiner Expy & Dufferin St,43.6338,-79.42546,Intersection
@@ -860,13 +845,9 @@ M4L,East Toronto,"India Bazaar, The Beaches West",43.6689985,-79.31557159999998,
 M4L,East Toronto,"India Bazaar, The Beaches West",43.6689985,-79.31557159999998,Burrito Bandidos,43.66644546137557,-79.31644740429473,Burrito Place
 M4L,East Toronto,"India Bazaar, The Beaches West",43.6689985,-79.31557159999998,Alliance Cinemas - The Beach,43.666746976047506,-79.31468500467349,Movie Theater
 M4L,East Toronto,"India Bazaar, The Beaches West",43.6689985,-79.31557159999998,Subway,43.66605207373166,-79.3169328912536,Sandwich Place
+M4L,East Toronto,"India Bazaar, The Beaches West",43.6689985,-79.31557159999998,KFC,43.666624203184845,-79.31591580156237,Fast Food Restaurant
 M4L,East Toronto,"India Bazaar, The Beaches West",43.6689985,-79.31557159999998,Harvey's,43.666528010542514,-79.3151266656414,Restaurant
 M4L,East Toronto,"India Bazaar, The Beaches West",43.6689985,-79.31557159999998,Shop Task - Inline Skate Shop,43.66652898514072,-79.31618481874466,Board Shop
-M4L,East Toronto,"India Bazaar, The Beaches West",43.6689985,-79.31557159999998,Pizza Nova,43.66646175849127,-79.31648498219599,Pizza Place
-M4L,East Toronto,"India Bazaar, The Beaches West",43.6689985,-79.31557159999998,Pizzaiolo,43.66895319839045,-79.31168339331794,Pizza Place
-M4L,East Toronto,"India Bazaar, The Beaches West",43.6689985,-79.31557159999998,Jody's Deli,43.66894604610645,-79.31163457258732,Sandwich Place
-M4L,East Toronto,"India Bazaar, The Beaches West",43.6689985,-79.31557159999998,Measurement Park,43.666916002070764,-79.31263053498228,Park
-M4L,East Toronto,"India Bazaar, The Beaches West",43.6689985,-79.31557159999998,Supperworks,43.66773719965272,-79.310451509513,Food & Drink Shop
 M5L,Downtown Toronto,"Commerce Court, Victoria Hotel",43.6481985,-79.37981690000001,Equinox Bay Street,43.64809974034856,-79.37998869411526,Gym
 M5L,Downtown Toronto,"Commerce Court, Victoria Hotel",43.6481985,-79.37981690000001,Canoe,43.647452066183476,-79.38132001815676,Restaurant
 M5L,Downtown Toronto,"Commerce Court, Victoria Hotel",43.6481985,-79.37981690000001,Mos Mos Coffee,43.64815919753501,-79.37874450467258,Café
@@ -1011,19 +992,18 @@ M4N,Central Toronto,Lawrence Park,43.7280205,-79.3887901,Lawrence Park Ravine,43
 M4N,Central Toronto,Lawrence Park,43.7280205,-79.3887901,Zodiac Swim School,43.72853205765438,-79.3828602612317,Swim School
 M4N,Central Toronto,Lawrence Park,43.7280205,-79.3887901,TTC Bus #162 - Lawrence-Donway,43.72802605799448,-79.38280527753858,Bus Line
 M5N,Central Toronto,Roselawn,43.7116948,-79.41693559999999,Rosalind's Garden Oasis,43.71218888050602,-79.41197784736922,Garden
-M5N,Central Toronto,Roselawn,43.7116948,-79.41693559999999,Aquatics Academy Inc.,43.70995116372792,-79.41212711237313,Pool
 M4P,Central Toronto,Davisville North,43.7127511,-79.3901975,Summerhill Market North,43.71549914910689,-79.39288125988016,Food & Drink Shop
 M4P,Central Toronto,Davisville North,43.7127511,-79.3901975,Sherwood Park,43.71655100307589,-79.38777567141624,Park
 M4P,Central Toronto,Davisville North,43.7127511,-79.3901975,Homeway Restaurant & Brunch,43.71264120397444,-79.39155655199944,Breakfast Spot
 M4P,Central Toronto,Davisville North,43.7127511,-79.3901975,Winners,43.71323606413252,-79.3938728363979,Department Store
 M4P,Central Toronto,Davisville North,43.7127511,-79.3901975,Best Western Roehampton Hotel & Suites,43.7088783,-79.3908798,Hotel
+M4P,Central Toronto,Davisville North,43.7127511,-79.3901975,Circle K,43.7128345,-79.3915539,Convenience Store
 M4P,Central Toronto,Davisville North,43.7127511,-79.3901975,Subway,43.7084743635371,-79.39067425664052,Sandwich Place
 M4P,Central Toronto,Davisville North,43.7127511,-79.3901975,Gym,43.71312601210131,-79.39353747528043,Gym
 M5P,Central Toronto,Forest Hill North & West,43.6969476,-79.41130720000001,Kay Gardner Beltline Trail,43.700726252588964,-79.4101006611444,Trail
-M5P,Central Toronto,Forest Hill North & West,43.6969476,-79.41130720000001,TTC Bus #14 Glencairn,43.70022082088619,-79.41027359709935,Bus Line
-M5P,Central Toronto,Forest Hill North & West,43.6969476,-79.41130720000001,Forest Hill Road Park,43.69794474434431,-79.4066047668457,Park
 M5P,Central Toronto,Forest Hill North & West,43.6969476,-79.41130720000001,Nikko Sushi Japenese Restaurant,43.700443369880006,-79.40795690464067,Sushi Restaurant
 M5P,Central Toronto,Forest Hill North & West,43.6969476,-79.41130720000001,Oliver jewelry,43.70037360267825,-79.4076437784668,Jewelry Store
+M5P,Central Toronto,Forest Hill North & West,43.6969476,-79.41130720000001,Chimichanga,43.7003539650898,-79.40760497511373,Mexican Restaurant
 M6P,West Toronto,"High Park, The Junction South",43.6616083,-79.46476329999999,nodo,43.665303321627505,-79.46562068004896,Italian Restaurant
 M6P,West Toronto,"High Park, The Junction South",43.6616083,-79.46476329999999,Lithuania Park,43.658666653470426,-79.46303844451904,Park
 M6P,West Toronto,"High Park, The Junction South",43.6616083,-79.46476329999999,Hole in the Wall,43.66529624102518,-79.46511783107383,Bar
@@ -1047,7 +1027,9 @@ M6P,West Toronto,"High Park, The Junction South",43.6616083,-79.46476329999999,R
 M6P,West Toronto,"High Park, The Junction South",43.6616083,-79.46476329999999,Pascal's Baguette & Bagels,43.665426,-79.466176,Bakery
 M6P,West Toronto,"High Park, The Junction South",43.6616083,-79.46476329999999,La Revolucion,43.66546024899212,-79.46430756434131,Mexican Restaurant
 M6P,West Toronto,"High Park, The Junction South",43.6616083,-79.46476329999999,Shoxs,43.665352769160776,-79.46356279142312,Bar
+M6P,West Toronto,"High Park, The Junction South",43.6616083,-79.46476329999999,Ko Foods,43.66549621190266,-79.46396403611945,Grocery Store
 M6P,West Toronto,"High Park, The Junction South",43.6616083,-79.46476329999999,SMASH,43.665496255078395,-79.46553722469592,Antique Shop
+M6P,West Toronto,"High Park, The Junction South",43.6616083,-79.46476329999999,Grand Bargain,43.665423,-79.4676,Convenience Store
 M4R,Central Toronto,North Toronto West,43.7153834,-79.40567840000001,Barreworks,43.71407030751952,-79.40010911522093,Yoga Studio
 M4R,Central Toronto,North Toronto West,43.7153834,-79.40567840000001,Nailsense,43.71746731916717,-79.40065341489495,Spa
 M4R,Central Toronto,North Toronto West,43.7153834,-79.40567840000001,C'est Bon,43.71678474928588,-79.40040634837081,Chinese Restaurant
@@ -1063,11 +1045,14 @@ M4R,Central Toronto,North Toronto West,43.7153834,-79.40567840000001,Sporting Li
 M4R,Central Toronto,North Toronto West,43.7153834,-79.40567840000001,GAP,43.71544977487359,-79.40008916661074,Clothing Store
 M4R,Central Toronto,North Toronto West,43.7153834,-79.40567840000001,Tim Hortons,43.71489400011398,-79.39977586269379,Coffee Shop
 M4R,Central Toronto,North Toronto West,43.7153834,-79.40567840000001,St. Clements - Yonge Parkette,43.71206179547874,-79.40425523454469,Park
+M4R,Central Toronto,North Toronto West,43.7153834,-79.40567840000001,Roots,43.716193862387414,-79.40066099166876,Clothing Store
 M4R,Central Toronto,North Toronto West,43.7153834,-79.40567840000001,Second Cup,43.714583000256965,-79.40011973797179,Café
-M4R,Central Toronto,North Toronto West,43.7153834,-79.40567840000001,Blo Blow Dry Bar,43.714712,-79.400227,Health & Beauty Service
+M4R,Central Toronto,North Toronto West,43.7153834,-79.40567840000001,Drake General Store,43.714712809782114,-79.40015650911188,Gift Shop
 M4R,Central Toronto,North Toronto West,43.7153834,-79.40567840000001,Milkcow,43.71590694517564,-79.40012454986572,Ice Cream Shop
 M4R,Central Toronto,North Toronto West,43.7153834,-79.40567840000001,Pet Valu,43.71412602510993,-79.39997509672807,Pet Store
+M4R,Central Toronto,North Toronto West,43.7153834,-79.40567840000001,GAP,43.714009,-79.399959,Clothing Store
 M4R,Central Toronto,North Toronto West,43.7153834,-79.40567840000001,Little Party Shoppe,43.713824815603665,-79.4000494480133,Miscellaneous Shop
+M4R,Central Toronto,North Toronto West,43.7153834,-79.40567840000001,Anytime Fitness,43.71765439,-79.40043421,Gym / Fitness Center
 M4R,Central Toronto,North Toronto West,43.7153834,-79.40567840000001,Budget Car & Truck Rental,43.718479,-79.401165,Rental Car Location
 M5R,Central Toronto,"The Annex, North Midtown, Yorkville",43.6727097,-79.40567840000001,Ezra's Pound,43.67515283323029,-79.40585846415303,Café
 M5R,Central Toronto,"The Annex, North Midtown, Yorkville",43.6727097,-79.40567840000001,Roti Cuisine of India,43.67461834990478,-79.40824866273744,Indian Restaurant
@@ -1104,7 +1089,6 @@ M6R,West Toronto,"Parkdale, Roncesvalles",43.6489597,-79.456325,Likely General,4
 M6R,West Toronto,"Parkdale, Roncesvalles",43.6489597,-79.456325,The Local Pub and Restaurant,43.6510171734011,-79.45091108743782,Bar
 M6R,West Toronto,"Parkdale, Roncesvalles",43.6489597,-79.456325,A Good Read,43.64947021007538,-79.450339,Bookstore
 M6R,West Toronto,"Parkdale, Roncesvalles",43.6489597,-79.456325,Butler's Pantry,43.65008710183049,-79.45045784621456,Breakfast Spot
-M6R,West Toronto,"Parkdale, Roncesvalles",43.6489597,-79.456325,TD Canada Trust,43.65056744467397,-79.45095769596264,Bank
 M4S,Central Toronto,Davisville,43.7043244,-79.3887901,Jules Cafe Patisserie,43.70413799694304,-79.38841260442167,Dessert Shop
 M4S,Central Toronto,Davisville,43.7043244,-79.3887901,Thobors Boulangerie Patisserie Café,43.704513877453266,-79.38861602551758,Café
 M4S,Central Toronto,Davisville,43.7043244,-79.3887901,Viva Napoli,43.70575225315343,-79.38912464296774,Pizza Place
@@ -1136,6 +1120,7 @@ M4S,Central Toronto,Davisville,43.7043244,-79.3887901,Meow Cat Cafe,43.702927,-7
 M4S,Central Toronto,Davisville,43.7043244,-79.3887901,Pizza Pizza,43.70613821755869,-79.38929246805056,Pizza Place
 M4S,Central Toronto,Davisville,43.7043244,-79.3887901,Shoppers Drug Mart,43.707806,-79.389893,Pharmacy
 M4S,Central Toronto,Davisville,43.7043244,-79.3887901,Subway,43.7084743635371,-79.39067425664052,Sandwich Place
+M4S,Central Toronto,Davisville,43.7043244,-79.3887901,Pizza Nova,43.70752400823691,-79.3898628311206,Pizza Place
 M5S,Downtown Toronto,"University of Toronto, Harbord",43.6626956,-79.4000493,Yasu,43.66283719650635,-79.40321739973975,Japanese Restaurant
 M5S,Downtown Toronto,"University of Toronto, Harbord",43.6626956,-79.4000493,The Dessert Kitchen,43.66282317865166,-79.40274569154498,Dessert Shop
 M5S,Downtown Toronto,"University of Toronto, Harbord",43.6626956,-79.4000493,Rasa,43.662756751275445,-79.40398803188654,Restaurant
@@ -1170,8 +1155,9 @@ M5S,Downtown Toronto,"University of Toronto, Harbord",43.6626956,-79.4000493,DT 
 M5S,Downtown Toronto,"University of Toronto, Harbord",43.6626956,-79.4000493,East of Brunswick,43.66560880777417,-79.40332426293872,Pub
 M5S,Downtown Toronto,"University of Toronto, Harbord",43.6626956,-79.4000493,The Beer Store,43.6653855,-79.4034771,Beer Store
 M5S,Downtown Toronto,"University of Toronto, Harbord",43.6626956,-79.4000493,RBC Royal Bank,43.66309939908409,-79.40259064752568,Bank
-M5S,Downtown Toronto,"University of Toronto, Harbord",43.6626956,-79.4000493,Caversham Booksellers,43.662951092179036,-79.40341830253601,Bookstore
-M5S,Downtown Toronto,"University of Toronto, Harbord",43.6626956,-79.4000493,TTC #506 Replacement Bus,43.65992277154099,-79.39688003665131,Moving Target
+M5S,Downtown Toronto,"University of Toronto, Harbord",43.6626956,-79.4000493,Cafe On Harbord,43.662903,-79.403564,Café
+M5S,Downtown Toronto,"University of Toronto, Harbord",43.6626956,-79.4000493,Elchi Chai Shop,43.662694965848935,-79.40465211868286,Coffee Shop
+M5S,Downtown Toronto,"University of Toronto, Harbord",43.6626956,-79.4000493,720 Spadina Avenue,43.66564017725459,-79.40384299926583,Yoga Studio
 M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,The Good Fork,43.64956534036813,-79.48402270694602,Food
 M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,Coffee Tree Roastery,43.64964735112305,-79.48343639040918,Café
 M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,The One That Got Away,43.64984188412754,-79.48261453424496,Fish & Chips Shop
@@ -1202,14 +1188,20 @@ M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,Tim Hortons,43.6485
 M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,Second Cup,43.650136727534054,-79.48079476951547,Café
 M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,Pizzaiolo,43.64939525764269,-79.48355965141116,Pizza Place
 M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,Pizza Pizza,43.64931132140717,-79.48455987958097,Pizza Place
+M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,Classico,43.649194,-79.484699,Pizza Place
+M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,Yama,43.6498566723268,-79.48205245542091,Sushi Restaurant
+M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,TELUS,43.65009,-79.481152,IT Services
 M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,Supper Solved,43.64878101033567,-79.48523252831198,Restaurant
-M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,Cards 'N' Such,43.650496785721714,-79.48077806752838,Post Office
 M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,West End Mamas,43.6487032,-79.484919,Health Food Store
+M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,(The New) Moksha Yoga Bloor West,43.648658140097254,-79.48524158555848,Yoga Studio
 M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,The Coffee Bouquets,43.648785,-79.48594,Coffee Shop
-M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,BloorWest Apple Specialist,43.65013183827076,-79.48080566097347,Electronics Store
+M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,BloorWestMac,43.65020554141845,-79.48078393936157,Bookstore
 M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,Carload Food Market,43.65014972066626,-79.480453552114,Grocery Store
 M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,My Place - a Canadian Pub,43.64845840072295,-79.48518749174133,Pub
-M4T,Central Toronto,"Moore Park, Summerhill East",43.6895743,-79.38315990000001,Reds,43.6928156790476,-79.38450425856912,Restaurant
+M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,Think Fitness,43.64796649019104,-79.48646216806426,Gym
+M6S,West Toronto,"Runnymede, Swansea",43.6515706,-79.4844499,Supplements Plus,43.65051247059009,-79.47926224875707,Supplement Shop
+M4T,Central Toronto,"Moore Park, Summerhill East",43.6895743,-79.38315990000001,Moore Park Tennis Club,43.693289308734215,-79.38289953522846,Tennis Court
+M4T,Central Toronto,"Moore Park, Summerhill East",43.6895743,-79.38315990000001,Moorevale Park,43.693609879336925,-79.38346507970056,Playground
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Kid Icarus,43.653933260442265,-79.40171859012935,Arts & Crafts Store
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Seven Lives - Tacos y Mariscos,43.65441817160925,-79.40054467846261,Mexican Restaurant
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Essence of Life Organics,43.65411067840614,-79.4004308758787,Organic Grocery
@@ -1236,25 +1228,23 @@ M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Meeplemart,43.65162799198926,-79.39741037259144,Gaming Cafe
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Juicy Dumpling,43.652722483150555,-79.39849796387996,Dumpling Restaurant
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,King's Cafe,43.65427040798248,-79.40189703859198,Vegetarian / Vegan Restaurant
+M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Poetry Jazz Cafe,43.654974536398164,-79.40237067545584,Jazz Club
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Sonic Boom,43.650858882525974,-79.39698455156606,Record Shop
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Thirsty and Miserable,43.65456533618983,-79.4015827891908,Beer Bar
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,FILM CAFE,43.65510856565147,-79.40234241534543,Comfort Food Restaurant
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Maker Pizza,43.6504011331197,-79.39804047841302,Pizza Place
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Ozzy's Burger,43.65519064459841,-79.40261014020656,Burger Joint
-M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Pho Hung,43.654434,-79.398883,Vietnamese Restaurant
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Hibiscus,43.655454254557085,-79.4024390910271,Vegetarian / Vegan Restaurant
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Swatow Restaurant 汕頭小食家,43.65386562507761,-79.39833353339202,Chinese Restaurant
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Buddha's Vegetarian,43.65190355922526,-79.40331176640306,Vegetarian / Vegan Restaurant
-M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Fresco's Fish & Chips,43.6541454478424,-79.40180347428756,Fish & Chips Shop
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,El Trompo,43.6558316709016,-79.40256072891863,Mexican Restaurant
-M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Ajisen Ramen 味千拉麵,43.65391272417607,-79.39859327119643,Ramen Restaurant
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,I Deal Coffee,43.65505778213131,-79.40325401691655,Coffee Shop
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Dark Horse Espresso Bar,43.65056381026066,-79.39701810600826,Coffee Shop
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,New Sky Restaurant 小沙田食家,43.65533674412141,-79.39889716243826,Chinese Restaurant
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Otto's Berlin Döner,43.65638733696026,-79.40278822246442,Doner Restaurant
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Kanto,43.6521668804813,-79.40484262234281,Filipino Restaurant
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Blue Banana Market,43.65566895683622,-79.40255063337135,Furniture / Home Store
-M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Thai Country Kitchen,43.65615859831661,-79.39942261134613,Thai Restaurant
+M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Livelihood Cafe,43.655820905845346,-79.40262894753235,Café
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Market 707,43.652127706758996,-79.40484420479436,Food Court
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,4 Life Natural Foods,43.6552749938635,-79.40237389544615,Farmers Market
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Petit Nuage,43.65171670538228,-79.40399906956775,Dessert Shop
@@ -1265,7 +1255,6 @@ M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Alexandra Park,43.650582680667924,-79.40453778486872,Park
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Nom Nom Nom Poutine & Crêpes,43.65211105018779,-79.40478604370892,Poutine Place
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,金城超級市場 Lucky Moose Food Mart,43.65365148008927,-79.3944133930438,Grocery Store
-M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Hotel Ocho,43.649999794212526,-79.39660870907747,Hotel Bar
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Mother's Dumplings,43.65710501801941,-79.39955196237875,Dumpling Restaurant
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Gushi,43.65225817681606,-79.40488372625506,Japanese Restaurant
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Toronto Western Hospital,43.65343431584569,-79.40607359183444,Hospital
@@ -1276,6 +1265,7 @@ M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,KOS,43.65502568322186,-79.40335800214416,Breakfast Spot
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Pho Tien,43.6528316250137,-79.40624186404881,Vietnamese Restaurant
 M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,The Supermarket,43.656679898773774,-79.40295434688701,Bar
+M5T,Downtown Toronto,"Kensington Market, Chinatown, Grange Park",43.6532057,-79.4000493,Fresh Collective,43.656813,-79.402967,Women's Store
 M4V,Central Toronto,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.68641229999999,-79.4000493,The Market By Longo’s,43.686711,-79.399536,Supermarket
 M4V,Central Toronto,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.68641229999999,-79.4000493,LCBO,43.686990631074885,-79.39923810519545,Liquor Store
 M4V,Central Toronto,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.68641229999999,-79.4000493,Mary Be Kitchen,43.687708,-79.395062,Restaurant
@@ -1289,6 +1279,7 @@ M4V,Central Toronto,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Dee
 M4V,Central Toronto,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.68641229999999,-79.4000493,Popeyes Louisiana Kitchen,43.6893,-79.395302,Fried Chicken Joint
 M4V,Central Toronto,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.68641229999999,-79.4000493,Pizzaiolo,43.68799051263145,-79.39463424218918,Pizza Place
 M4V,Central Toronto,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.68641229999999,-79.4000493,Sprout,43.687995609133544,-79.39465149552744,Vietnamese Restaurant
+M4V,Central Toronto,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.68641229999999,-79.4000493,Glen Gould Park,43.686617909066435,-79.40145936940466,Park
 M4V,Central Toronto,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.68641229999999,-79.4000493,Kiva's,43.687983764255456,-79.39471505267664,Bagel Shop
 M4V,Central Toronto,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.68641229999999,-79.4000493,TTC Stop #,43.6858256,-79.40498099,Light Rail Station
 M4V,Central Toronto,"Summerhill West, Rathnelly, South Hill, Forest Hill SE, Deer Park",43.68641229999999,-79.4000493,RBC Royal Bank,43.68806164142636,-79.39500079795525,Bank
@@ -1305,8 +1296,6 @@ M5V,Downtown Toronto,"CN Tower, King and Spadina, Railway Lands, Harbourfront We
 M5V,Downtown Toronto,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst
  Quay, South Niagara, Island airport",43.6289467,-79.3944199,Gate 8,43.63153617968721,-79.39456989797382,Airport Gate
 M5V,Downtown Toronto,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst
- Quay, South Niagara, Island airport",43.6289467,-79.3944199,Balzac’s Coffee Roasters,43.631392,-79.395952,Coffee Shop
-M5V,Downtown Toronto,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst
  Quay, South Niagara, Island airport",43.6289467,-79.3944199,Crew Room,43.63135993598351,-79.39610738952823,Airport Lounge
 M5V,Downtown Toronto,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst
  Quay, South Niagara, Island airport",43.6289467,-79.3944199,Market@416,43.631653,-79.39451,Bar
@@ -1317,9 +1306,11 @@ M5V,Downtown Toronto,"CN Tower, King and Spadina, Railway Lands, Harbourfront We
 M5V,Downtown Toronto,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst
  Quay, South Niagara, Island airport",43.6289467,-79.3944199,Porter Airlines Check-In Counter,43.631683,-79.395454,Airport Service
 M5V,Downtown Toronto,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst
- Quay, South Niagara, Island airport",43.6289467,-79.3944199,Hertz,43.632,-79.396223,Rental Car Location
+ Quay, South Niagara, Island airport",43.6289467,-79.3944199,Porter FBO Limited,43.630717162940016,-79.3986976146698,Airport Terminal
 M5V,Downtown Toronto,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst
  Quay, South Niagara, Island airport",43.6289467,-79.3944199,HeliTours,43.63070559837703,-79.39876017431267,Airport Service
+M5V,Downtown Toronto,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst
+ Quay, South Niagara, Island airport",43.6289467,-79.3944199,ORNGE - Toronto Air Base,43.63166229946016,-79.39816647981402,Airport Service
 M5V,Downtown Toronto,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst
  Quay, South Niagara, Island airport",43.6289467,-79.3944199,Edward Hanlan Statue,43.62772066806761,-79.38927421473466,Sculpture Garden
 M5V,Downtown Toronto,"CN Tower, King and Spadina, Railway Lands, Harbourfront West, Bathurst
@@ -1425,6 +1416,7 @@ M5W,Downtown Toronto,Stn A PO Boxes,43.6464352,-79.37484599999999,Mirto,43.65070
 M5W,Downtown Toronto,Stn A PO Boxes,43.6464352,-79.37484599999999,Beauty Boutique by Shoppers Drug Mart,43.647141,-79.370898,Cosmetics Shop
 M5W,Downtown Toronto,Stn A PO Boxes,43.6464352,-79.37484599999999,Starbucks,43.647192603955325,-79.38095685671752,Coffee Shop
 M5W,Downtown Toronto,Stn A PO Boxes,43.6464352,-79.37484599999999,Pizzaiolo,43.65020573236071,-79.37618378615609,Pizza Place
+M5W,Downtown Toronto,Stn A PO Boxes,43.6464352,-79.37484599999999,Soup Nutsy,43.647857591711336,-79.38053285911379,Soup Place
 M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753,Cranberries,43.6678427705951,-79.36940687874281,Diner
 M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753,Butter Chicken Factory,43.66707247004843,-79.36918422958169,Indian Restaurant
 M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753,Kingyo Toronto,43.66589495808371,-79.36841520638596,Japanese Restaurant
@@ -1462,15 +1454,9 @@ M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753,The Fly
 M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753,Johnny G's,43.66456495893274,-79.36806027251208,Breakfast Spot
 M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753,Pizza Pizza,43.66809038080825,-79.37027389227195,Pizza Place
 M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753,China Gourmet,43.6641802410051,-79.36835925727236,Chinese Restaurant
-M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753,El Charro,43.667606,-79.36949,Restaurant
 M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753,Shoppers Drug Mart,43.663998,-79.36783,Pharmacy
-M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753,Tim Hortons / Esso,43.66712972601009,-79.37066407870991,Coffee Shop
-M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753,Fairway Garden Centre,43.66574206941764,-79.36862964238483,Flower Shop
-M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753,Park Snacks,43.66697911709206,-79.36311542987823,Snack Place
 M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753,No Frills,43.663515,-79.367166,Grocery Store
-M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753,Riverdale Farmer's Market,43.66689081195459,-79.36250306755787,Farmers Market
-M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753,Bloor-Parliament Parkette,43.671274455347955,-79.37090053934895,Park
-M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753,Rosedale Ravine,43.672151681201306,-79.36715009255055,Park
+M4X,Downtown Toronto,"St. James Town, Cabbagetown",43.667967,-79.3676753,Beckers,43.66745509366002,-79.3732981061779,Convenience Store
 M5X,Downtown Toronto,"First Canadian Place, Underground city",43.6484292,-79.3822802,Equinox Bay Street,43.64809974034856,-79.37998869411526,Gym
 M5X,Downtown Toronto,"First Canadian Place, Underground city",43.6484292,-79.3822802,Canoe,43.647452066183476,-79.38132001815676,Restaurant
 M5X,Downtown Toronto,"First Canadian Place, Underground city",43.6484292,-79.3822802,Pilot Coffee Roasters,43.648835391245896,-79.3809358125033,Coffee Shop
@@ -1552,7 +1538,6 @@ M5X,Downtown Toronto,"First Canadian Place, Underground city",43.6484292,-79.382
 M5X,Downtown Toronto,"First Canadian Place, Underground city",43.6484292,-79.3822802,Royal Alexandra Theatre,43.647255,-79.38753,Theater
 M5X,Downtown Toronto,"First Canadian Place, Underground city",43.6484292,-79.3822802,Thai Island,43.64914597811404,-79.38379835292523,Thai Restaurant
 M5X,Downtown Toronto,"First Canadian Place, Underground city",43.6484292,-79.3822802,GoodLife Fitness Toronto 137 Yonge Street,43.651242,-79.378068,Gym
-M5X,Downtown Toronto,"First Canadian Place, Underground city",43.6484292,-79.3822802,Momofuku Noodle Bar,43.6493658716176,-79.38621652451032,Noodle House
 M5X,Downtown Toronto,"First Canadian Place, Underground city",43.6484292,-79.3822802,Sud Forno,43.65093965733832,-79.37904545824371,Bakery
 M5X,Downtown Toronto,"First Canadian Place, Underground city",43.6484292,-79.3822802,Sweet Lulu,43.65055650489936,-79.38117543224395,Asian Restaurant
 M5X,Downtown Toronto,"First Canadian Place, Underground city",43.6484292,-79.3822802,Toronto Athletic Club,43.647359553534905,-79.3811766566002,Gym
@@ -1571,6 +1556,7 @@ M5X,Downtown Toronto,"First Canadian Place, Underground city",43.6484292,-79.382
 M5X,Downtown Toronto,"First Canadian Place, Underground city",43.6484292,-79.3822802,Starbucks,43.646890531355616,-79.38187054975934,Coffee Shop
 M5X,Downtown Toronto,"First Canadian Place, Underground city",43.6484292,-79.3822802,Copacabana Grilled Brazilian,43.64833259480477,-79.3881514766071,Brazilian Restaurant
 M5X,Downtown Toronto,"First Canadian Place, Underground city",43.6484292,-79.3822802,Ruth's Chris Steak House,43.6499174,-79.3857238,Steakhouse
+M5X,Downtown Toronto,"First Canadian Place, Underground city",43.6484292,-79.3822802,JaBistro,43.64968685893743,-79.38809001547467,Sushi Restaurant
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Storm Crow Manor,43.66683985695023,-79.38159278029707,Theme Restaurant
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,DanceLifeX Centre,43.66695583448771,-79.3852972984314,Dance Studio
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,The Alley,43.66592244798498,-79.38556672752236,Bubble Tea Shop
@@ -1586,11 +1572,11 @@ M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Ho's Tea
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Hero Certified Burgers,43.66562403029978,-79.38090430769088,Burger Joint
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,FUEL+,43.66439936324463,-79.38042718414235,Juice Bar
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Coach House Restaurant,43.66499059853204,-79.38481415727767,Diner
+M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Si Lom,43.66501007731949,-79.38068288199048,Thai Restaurant
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,North of Brooklyn Pizzeria,43.664383604568975,-79.38037571983865,Pizza Place
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Churchmouse & Firkin,43.66463217328346,-79.38040612389896,Pub
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,T-Swirl Crepe,43.663452,-79.384125,Creperie
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Woody's and Sailor,43.664389684023526,-79.38036131100687,Gay Bar
-M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Openmat Mixed Martial Arts,43.666171607941095,-79.3847667237342,Martial Arts Dojo
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Baskin-Robbins,43.66507308115074,-79.38068437615618,Ice Cream Shop
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Dal Moro's Fresh Pasta To Go,43.66664070494267,-79.38540023837237,Italian Restaurant
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Starbucks,43.66498,-79.38051,Coffee Shop
@@ -1607,7 +1593,6 @@ M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Curry's 
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Burrito Bandidos,43.662962178169344,-79.38395554190546,Burrito Place
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Central YMCA,43.663083310067655,-79.38502493214878,Distribution Center
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Church Street Espresso,43.66829221417146,-79.38187727767004,Café
-M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,St. Louis Bar and Grill,43.66385323730235,-79.38418742909323,Wings Joint
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Out On The Street,43.668293169032786,-79.3803404783587,Men's Store
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Kawa Sushi,43.66389438938988,-79.38021009464505,Japanese Restaurant
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Wish,43.66875926600152,-79.38569365317709,Restaurant
@@ -1630,7 +1615,7 @@ M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Onnki Do
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Ritz Caribbean Food,43.66954527049821,-79.38650615702159,Caribbean Restaurant
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,O. Noir,43.66914465420568,-79.38250465821741,Restaurant
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,The Blake House,43.664468354131486,-79.37747087203942,American Restaurant
-M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Loaded Pierogi,43.664665,-79.380641,Polish Restaurant
+M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Hoki Poké,43.665354,-79.384544,Poke Place
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Tokyo Kitchen,43.66878262373862,-79.38515305215851,Japanese Restaurant
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,The Salad House,43.669508018475916,-79.38606068373156,Mediterranean Restaurant
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Rolltation,43.669388,-79.386566,Sushi Restaurant
@@ -1647,7 +1632,6 @@ M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Alexande
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Noah's Natural Foods,43.66853209575393,-79.38588463120627,Food & Drink Shop
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Croissant Tree,43.66957516951418,-79.3823307429487,Coffee Shop
 M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Town Inn Suites,43.66905597213064,-79.38257311903673,Hotel
-M4Y,Downtown Toronto,Church and Wellesley,43.6658599,-79.38315990000001,Express Pizza,43.66378730691813,-79.38022420876023,Pizza Place
 M7Y,East Toronto,Business reply mail Processing CentrE,43.6627439,-79.321558,Rorschach Brewing Co.,43.6634831695922,-79.31982368639481,Brewery
 M7Y,East Toronto,Business reply mail Processing CentrE,43.6627439,-79.321558,Leslieville Farmers Market,43.664901398008624,-79.31978354343948,Farmers Market
 M7Y,East Toronto,Business reply mail Processing CentrE,43.6627439,-79.321558,The Sidekick,43.66448428095712,-79.3251615270421,Comic Shop
@@ -1663,6 +1647,6 @@ M7Y,East Toronto,Business reply mail Processing CentrE,43.6627439,-79.321558,TTC
 M7Y,East Toronto,Business reply mail Processing CentrE,43.6627439,-79.321558,Jonathan Ashbridge Park,43.664702,-79.319898,Park
 M7Y,East Toronto,Business reply mail Processing CentrE,43.6627439,-79.321558,The Ten Spot,43.664814785818976,-79.32421263111455,Spa
 M7Y,East Toronto,Business reply mail Processing CentrE,43.6627439,-79.321558,Toronto Yoga Mamas,43.664823659247176,-79.32433475520406,Yoga Studio
-M7Y,East Toronto,Business reply mail Processing CentrE,43.6627439,-79.321558,TTC Stop #03049,43.66447,-79.325145,Light Rail Station
 M7Y,East Toronto,Business reply mail Processing CentrE,43.6627439,-79.321558,Greenwood Cigar & Variety,43.6645377446058,-79.32537913922498,Smoke Shop
 M7Y,East Toronto,Business reply mail Processing CentrE,43.6627439,-79.321558,Revolution Recording,43.662561,-79.32694,Recording Studio
+M7Y,East Toronto,Business reply mail Processing CentrE,43.6627439,-79.321558,ONE Academy,43.66225256325049,-79.32691097259521,Gym / Fitness Center
