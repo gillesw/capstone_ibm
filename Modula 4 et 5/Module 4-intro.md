@@ -35,3 +35,13 @@ But Japanese food is becoming increasingly popular. So my projectt is to find th
     - some restaurants to define a cluster where people are going to restaurants.
 
 Let's consult the [Jupyter Notebook](https://github.com/gillesw/capstone_ibm/blob/master/Modula%204%20et%205/Module4-intro.ipynb) 
+
+## Results
+
+!['Results'](cluster4.png)
+
+The right cluster seems to be the $4^{th}$ one, so one of this 3 boroughs :
+
+- $7^{th}$ arrondissement : **Palais-Bourbon**
+- $14^{th}$ arrondissement : **Observatoire**
+- $8^{th}$ arrondissement : **Elysée**
